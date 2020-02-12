@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mLoading project definition from /u/riker/u87/won20/cs352/proj3/project[0m
+[0m[[0m[0minfo[0m] [0m[0mLoading settings for project proj3 from build.sbt ...[0m
+[0m[[0m[0minfo[0m] [0m[0mSet current project to proj3 (in build file:/u/riker/u87/won20/cs352/proj3/)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /u/riker/u87/won20/cs352/proj3/target/scala-2.12/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0minfo[0m] [0m[0mPackaging /u/riker/u87/won20/cs352/proj3/target/scala-2.12/proj3_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0minfo[0m] [0m[0mRunning project3.Runner def g(x: Int) = 2; g[0m
+============ SRC CODE ============
+def g(x: Int) = 2; g
+==================================
+
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 7 s, completed Feb 2, 2020, 7:10:43 PM[0m
