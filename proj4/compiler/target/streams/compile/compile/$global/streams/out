@@ -1,0 +1,15 @@
+[0m[[0m[31merror[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala:76:58: not enough arguments for method apply: (cnt: miniscala.SymbolicCPSTreeModule.Name, args: Seq[miniscala.SymbolicCPSTreeModule.Name])miniscala.SymbolicCPSTreeModule.AppC in object AppC.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters cnt, args.[0m
+[0m[[0m[31merror[0m] [0m[0m          tempLetC("ct", Seq(), nonTail(tB)(v_2 => C.AppC(/*enter args here*/)))(ctb =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala:77:60: not enough arguments for method apply: (cnt: miniscala.SymbolicCPSTreeModule.Name, args: Seq[miniscala.SymbolicCPSTreeModule.Name])miniscala.SymbolicCPSTreeModule.AppC in object AppC.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters cnt, args.[0m
+[0m[[0m[31merror[0m] [0m[0m            tempLetC("cf", Seq(), nonTail(eB)(v_3 => C.AppC(/*enter args here*/)))(ceb =>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala:80:22: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : miniscala.SymbolicCMScalaTreeModule.Prim[0m
+[0m[[0m[31merror[0m] [0m[0m required: miniscala.SymbolicCPSTreeModule.TestPrimitive[0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  miniscala.MiniScalaTestPrimitive[0m
+[0m[[0m[31merror[0m] [0m[0m                C.If(cond, vs, ctb, ceb)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

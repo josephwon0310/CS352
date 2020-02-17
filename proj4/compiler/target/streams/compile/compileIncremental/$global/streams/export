@@ -1,0 +1,1 @@
+scalac -bootclasspath /homes/won20/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.10.jar -deprecation -feature -unchecked -classpath /u/riker/u87/won20/cs352/proj4/compiler/target/scala-2.12/classes /u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaToCPSTranslator.scala
