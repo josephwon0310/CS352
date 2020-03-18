@@ -1,0 +1,23 @@
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/MiniScalaParser.scala:217:27: deprecated syntax for character literal (use '\'' for single quote)[0m
+[0m[[0m[33mwarn[0m] [0m[0m    } else if (in.peek == ''') {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaAnalyzer.scala:312:42: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: (_, _)[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val from = (reftp1 zip reftp2).map {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/BitTwiddling.scala:12:8: method /: in trait TraversableOnce is deprecated (since 2.12.10): Use foldLeft instead of /:[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (0 /: bits){ (v, b) => (v << 1) | b }[0m
+[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaAnalyzer.scala:198:17: method :\ in trait TraversableOnce is deprecated (since 2.12.10): Use foldRight instead of :\[0m
+[0m[[0m[33mwarn[0m] [0m[0m          (tags :\ (S.Lit(BooleanLit(false)): S.Tree)) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/CMScalaAnalyzer.scala:549:79: method /: in trait TraversableOnce is deprecated (since 2.12.10): Use foldLeft instead of /:[0m
+[0m[[0m[33mwarn[0m] [0m[0m      val (nfuns, nftps) = ((List.empty[S.FunDef], List.empty[(Symbol,Type)]) /: (funs zip ftps)) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/Graph.scala:62:28: method /: in trait TraversableOnce is deprecated (since 2.12.10): Use foldLeft instead of /:[0m
+[0m[[0m[33mwarn[0m] [0m[0m    val completeAdj = (adj /: adj.values.flatten) { case (adj, n) =>[0m
+[0m[[0m[33mwarn[0m] [0m[0m                           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/u/riker/u87/won20/cs352/proj4/compiler/src/miniscala/MiniScalaParser.scala:560:25: method :\ in trait TraversableOnce is deprecated (since 2.12.10): Use foldRight instead of :\[0m
+[0m[[0m[33mwarn[0m] [0m[0m        (s.zipWithIndex :\ (Ref(name).withPos(pos): Tree)) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m7 warnings found[0m
