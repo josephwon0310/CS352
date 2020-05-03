@@ -41,6 +41,11 @@ class ValueInterpreter extends Interpreter with BugReporter {
   case class Primitive(name: String) extends Val
 
   type MyVal = Val
+  /*
+  type Exc = Int
+  type STrace = List[Position]
+  case class Fail(code: Exc, stacktrace: STrace) extends Val
+  */
 
   /**
    * Env of the interpreter. Keeps track of the value

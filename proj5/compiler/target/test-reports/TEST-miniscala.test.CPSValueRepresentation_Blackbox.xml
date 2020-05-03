@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="pod1-1.cs.purdue.edu" name="miniscala.test.CPSValueRepresentation_Blackbox" tests="59" errors="0" failures="0" skipped="0" time="1.071" timestamp="2020-04-14T00:58:30">
+                     <properties>
+      <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value=""/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="Unknown"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-11-openjdk-amd64/lib"/><property name="sun.java.command" value="/usr/share/sbt/bin/sbt-launch.jar"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2019-10-15"/><property name="java.home" value="/usr/lib/jvm/java-11-openjdk-amd64"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.5+10-post-Ubuntu-0ubuntu1.118.04"/><property name="user.name" value="won20"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/tmp/jna-113313108/jna11321245954724481320.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="11.0.5"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/><property name="sun.os.patch.level" value="unknown"/><property name="java.library.path" value="/p/oracle12c:/p/oracle12c::/opt/oracle/instantclient_12_2:/opt/oracle/instantclient_12_2:/usr/java/packages/lib:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/><property name="java.vendor" value="Private Build"/><property name="scala.ext.dirs" value="/homes/won20/.sbt/0.13/java9-rt-ext-private_build_11_0_5"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="/usr/share/sbt/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Private Build"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="America/Indiana/Indianapolis"/><property name="os.name" value="Linux"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/homes/won20"/><property name="user.language" value="en"/><property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="4.15.0-72-generic"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib/x86_64-linux-gnu:/lib/x86_64-linux-gnu:/lib64:/usr/lib:/lib:/libx32:/lib/i386-linux-gnu:/lib32:/usr/libx32:/usr/lib32:/opt/oracle/instantclient_12_2"/><property name="java.vendor.url.bug" value="Unknown"/><property name="user.dir" value="/u/riker/u87/won20/cs352/proj5/compiler"/><property name="os.arch" value="amd64"/><property name="java.vm.info" value="mixed mode, sharing"/><property name="java.vm.version" value="11.0.5+10-post-Ubuntu-0ubuntu1.118.04"/><property name="java.class.version" value="55.0"/>
+    </properties>
+                     <testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibFunctions3" time="0.306">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testSideEffectingCondition" time="0.002">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic3" time="0.006">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic4" time="0.004">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic5" time="0.003">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic6" time="0.004">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic7" time="0.004">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic8" time="0.003">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic9" time="0.004">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists10" time="0.079">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists11" time="0.052">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists12" time="0.053">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists13" time="0.039">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testConditional1" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testConditional2" time="0.002">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testConditional4" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibStrings1" time="0.038">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibStrings2" time="0.052">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibStrings3" time="0.039">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists1" time="0.036">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists2" time="0.033">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists3" time="0.037">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists4" time="0.031">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists5" time="0.033">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists6" time="0.03">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists7" time="0.032">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists8" time="0.029">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLibLists9" time="0.031">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic1" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic2" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic3" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic4" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic5" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic6" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic7" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic8" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic9" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveArithmetic10" time="0.0">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks1" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks2" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks3" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks4" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks5" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveBlocks7" time="0.002">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic10" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic11" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic12" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic13" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic14" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic15" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic16" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic17" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic18" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic19" time="0.002">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLogic22" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLog20" time="0.001">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testPrimitiveLog21" time="0.002">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testLetrec" time="0.027">
+                                                 
+                                               </testcase><testcase classname="miniscala.test.CPSValueRepresentation_Blackbox" name="testAppOrder" time="0.029">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

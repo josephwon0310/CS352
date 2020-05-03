@@ -1,0 +1,226 @@
+====== Allocating block size 25 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 14 ======
+===== after alloc =====
+====== Allocating block size 14 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+Factorial of? ====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+3====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 14 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+! = ====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+sweeping...
+== COALESCING IS DONE ==
+
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 4 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+sweeping...
+== COALESCING IS DONE ==
+
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+sweeping...
+== COALESCING IS DONE ==
+
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+sweeping...
+== COALESCING IS DONE ==
+
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 5 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====
+====== Allocating block size 2 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 6 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 0 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 7 ======
+===== after alloc =====
+====== Allocating block size 1 ======
+===== after alloc =====

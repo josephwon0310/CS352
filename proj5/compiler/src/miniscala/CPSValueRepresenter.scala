@@ -236,18 +236,18 @@ object CPSValueRepresenter extends (H.Tree => L.Tree) {
         case ((fName, (w_name, w_fv)), inner) =>
           //each blocksets
           tempLetL(0) { zero =>
-            tempLetP(CPSBlockSet, Seq(fName, zero, w_name)) { _ =>
+            tempLetP(CPSBlockSet, Seq(fName, zero, w_name)) { bset =>
               wrap(w_fv.zipWithIndex, inner) {
-                case ((fv, i), inner) =>
+                case ((fv,i), inner) =>
                   tempLetL(i + 1) { i =>
-                    tempLetP(CPSBlockSet, Seq(fName, i, fv)) { _ =>  inner }
+                    tempLetP(CPSBlockSet, Seq(fName, i, fv)) { idk =>  inner }
                   }
               }
             }
           }
       }
       val fbody = wrap(zipped, blockSets) {
-        case ((fName, (_, w_fv)), inner) =>
+        case ((fName, (w_name, w_fv)), inner) =>
           tempLetL(w_fv.length + 1) { size =>
             L.LetP(fName, CPSBlockAlloc(BlockTag.Function.id), Seq(size), inner)
           }

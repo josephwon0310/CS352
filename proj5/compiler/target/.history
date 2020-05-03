@@ -1,0 +1,20 @@
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+clean
+test
+run "val x = 1;"
+run "val x = 1;1"
+run "val x =1;val y=2; val z= 3;def g(f, y) = {f(x+y)}; def f(x) = { x*y}; g(f,y)"
+run "val x =1;val y=2; val z= 3;def g(f:Int=>Int, y:Int) = {f(x+y)}; def f(x) = { x*y}; g(f,y)"
+run "val x =1;val y=2; val z= 3;def g(f:Int=>Int, y:Int) = {f(x+y)}; def f(x:Int) = { x*y}; g(f,y)"
+run "val x =1;val y=2; val z= 3;def g(f:Int=>Int, y:Int) = {f(x+y) *z}; def f(x:Int) = { x*y}; g(f,y)"
